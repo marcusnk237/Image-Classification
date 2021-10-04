@@ -1,7 +1,7 @@
-# Image-Classification
+# Tumor-Classification
 
-Ce programme permet une classification supervisée de différents types de tumeurs.
-Dans un premier temps, on va la charger les données (Les dossiers contenant les données doivent être nommés en fonction du type de tumeur).
-Le programme va ensuite extraire les noms de dossiers, et créer des classes à partir de ces noms.
+This program allows a supervised classification of different types of tumors.
+First, we will load the data (the folders containing the data must be named according to the type of tumor).
+The program will then extract the folder names, and create classes from these names.
 
-On crée et entraine un réseau de neurones convolutionnels, afin qu'il puisse reconnaitre le type (la classe) de tumeur.
+We create and train a convolutional neural network, so that it can recognize the type (class) of tumor.
